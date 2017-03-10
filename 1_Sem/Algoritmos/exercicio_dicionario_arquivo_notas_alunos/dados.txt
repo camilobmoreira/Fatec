@@ -1,0 +1,15 @@
+nome:Loyd
+deveres:90.0,97.0,75.0,92.0
+quizzes:88.0,40.0,94.0
+testes:75.0,90.0
+#
+nome:Alice
+deveres:100.0,92.0,98.0,100.0
+quizzes:82.0,83.0,91.0
+testes:89.0,97.0
+#
+nome:Tyler
+deveres:0.0,87.0,75.0,22.0
+quizzes:0.0,75.0,78.0
+testes:100.0,100.0
+#
